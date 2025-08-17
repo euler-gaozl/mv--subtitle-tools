@@ -34,7 +34,7 @@ ENV/
 # Project specific
 models/*.joblib
 processing_output/
-processing_results/
+# processing_results/  # 允许推送处理结果
 mixed_color_results/
 video/
 
