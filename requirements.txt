@@ -1,0 +1,14 @@
+# 基础依赖
+numpy>=1.19.0
+opencv-python>=4.5.0
+matplotlib>=3.3.0
+tqdm>=4.50.0
+
+# OCR相关
+paddlepaddle>=2.3.0
+paddleocr>=2.6.0
+
+# 机器学习相关
+scikit-learn>=1.0.0
+joblib>=1.0.0
+pandas>=1.3.0
